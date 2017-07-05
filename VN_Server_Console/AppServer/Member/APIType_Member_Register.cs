@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace VN_Server_Console.AppServer.Member
+{
+    public class APIType_Member_Register
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+        public string ConfirmPassword { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Mobile { get; set; }
+
+        public APIType_Member_Register()
+        {
+            Email = "";
+            Password = "";
+            ConfirmPassword = "";
+            FirstName = "";
+            LastName = "";
+            Mobile = "";
+        }
+    }
+}
