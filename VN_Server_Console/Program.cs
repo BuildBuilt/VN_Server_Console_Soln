@@ -77,6 +77,8 @@ namespace VN_Server_Console
             Console.ReadLine();
             Console.ReadLine();
 
+            string test = "test commit 1";
+
         }
     }
 }
