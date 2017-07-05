@@ -71,6 +71,8 @@ namespace VN_Server_Console
             Console.WriteLine();
             Console.WriteLine("Press any key to continue...");
             Console.ReadLine();
+
+            Console.ReadLine();
         }
     }
 }
