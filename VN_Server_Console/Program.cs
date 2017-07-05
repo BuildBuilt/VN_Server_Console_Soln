@@ -76,6 +76,7 @@ namespace VN_Server_Console
             Console.WriteLine(); // Pap
             Console.ReadLine(); // Build
 
+            string branch = "Test on Branch";
 
 
         }
