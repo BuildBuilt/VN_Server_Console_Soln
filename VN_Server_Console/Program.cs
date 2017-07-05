@@ -74,10 +74,9 @@ namespace VN_Server_Console
 
             Console.ReadLine();
             Console.WriteLine(); // Pap
-            Console.ReadLine();
-            Console.ReadLine();
+            Console.ReadLine(); // Build
 
-            string test = "test commit 1";
+
 
         }
     }
