@@ -73,6 +73,10 @@ namespace VN_Server_Console
             Console.ReadLine();
 
             Console.ReadLine();
+            Console.WriteLine(); // Pap
+            Console.ReadLine();
+            Console.ReadLine();
+
         }
     }
 }
